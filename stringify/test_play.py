@@ -1,7 +1,7 @@
 import sounddevice as sd
 import soundfile as sf
 
-filename = 'Mark.wav'
+filename = 'output.wav'
 
 def play_sound(filename):
     """ plays sound from soundfile """
